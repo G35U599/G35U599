@@ -16,8 +16,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--horizontal divider(gradiant)-->
 
-<br>
-
 ## 🚀 About me
 
 - 2+ years of experience in web development.
@@ -126,6 +124,7 @@ fw6
 <h2 align="center"><b>Thank you for visiting my github page!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <p align="center">If you'd like to collaborate or have a proposal, please don't hesitate to contact me.</p> 
+
 ---
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
