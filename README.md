@@ -30,17 +30,17 @@
 
 Here's a sample of the tools and languages ​​I use to bring web projects to life:
   
-### FRONTEND:   
+<h3 align="center">FRONTEND:</h3>  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,js,ts,react,vue,astro"/>
 </p>
 
-### BACKEND:
+### <h3 align="center">BACKEND:</h3>  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,next,nest,mysql,postgres"/>
 </p>
 
-### TOOLS:
+### <h3 align="center">TOOLS:</h3>  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github,git,docker,vite,npm,pnpm,bun,yarn,postman,redux,stackoverflow" />
 </p>
@@ -123,10 +123,9 @@ fw6
 
 ---
 
-<h2 align="center"><b>Thank you for visiting my portfolio!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h2 align="center"><b>Thank you for visiting my github page!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-### If you'd like to collaborate or have a proposal, please don't hesitate to contact me.
-
+### <p align="center">If you'd like to collaborate or have a proposal, please don't hesitate to contact me.</p> 
 ---
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
@@ -135,6 +134,4 @@ fw6
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">Jesús Enrique Fernández Prieto © 2025</p>
-
-
 
