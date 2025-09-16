@@ -103,6 +103,7 @@ fw6
 <div alin="center">
 <a target="_blank" href="mailto:jesusefp99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://wa.me/+5358949219?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20una%20consulta."><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a target="_blank" href="https://t.me/+5358949219"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 </div>
 
 
