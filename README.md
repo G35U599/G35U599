@@ -1,13 +1,3 @@
-![Banner informático](https://images.unsplash.com/photo-1629904853716-928956961440?q=80&w=2070&auto=format&fit=crop)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=2e8b57&center=true&vCenter=true&lines=Hi,+mi+nombre+es+Jesus+Enrique+Fernández+Prieto" alt="Typing SVG" />
-</p>
-
----
-
 # Portafolio de Jesús Enrique Fernández Prietos
 
 ¡Hola! 👋 Soy **Jesús Enrique Fernández Prietos**, Ingeniero de Software y Frontend Developer de La Habana, Cuba.  
