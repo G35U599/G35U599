@@ -2,9 +2,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<div align="center">
+  <a href="#"><img src="./imgs/banner.jpg" alt="Banner Profile" width="100%"></a>
+</div>
 <!--horizontal divider(gradiant)-->
 <h1 align="center"><b>Hi , I'm Jesús Enrique Fernández Prieto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif"> -->
 <!--  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
@@ -27,8 +30,7 @@
 
 Here's a sample of the tools and languages ​​I use to bring web projects to life:
   
- FRONTEND: 
-  
+### FRONTEND:   
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,js,ts,react,vue,astro"/>
 </p>
@@ -99,7 +101,7 @@ fw6
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 <div alin="center">
 <a target="_blank" href="mailto:jesusefp99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://wa.me/+5358949219?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20una%20consulta."><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
