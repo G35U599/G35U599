@@ -125,7 +125,7 @@ fw6
 
 <h2 align="center"><b>Thank you for visiting my github page!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-### <p align="center">If you'd like to collaborate or have a proposal, please don't hesitate to contact me.</p> 
+<p align="center">If you'd like to collaborate or have a proposal, please don't hesitate to contact me.</p> 
 ---
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
