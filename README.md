@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=2e8b57&center=true&vCenter=true&lines=Hi,+mi+nombre+es+Jesus+Enrique+Fernández+Prieto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=2e8b57&center=true&vCenter=true&lines=Hi,+mi+nombre+es+Jesus+Enrique+Fernández+Prieto" alt="Typing SVG" />
 </p>
 
 ---
