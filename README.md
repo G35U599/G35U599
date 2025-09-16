@@ -1,75 +1,132 @@
-# Jesús Enrique Fernández Prietos
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-¡Hola! 👋 Soy **Jesús Enrique Fernández Prietos**, Ingeniero de Software y Frontend Developer de La Habana, Cuba.  
-Me especializo en el desarrollo de aplicaciones web robustas, escalables y bien estructuradas.
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<!--horizontal divider(gradiant)-->
+<h1 align="center"><b>Hi , I'm Jesús Enrique Fernández Prieto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=FullStack+Developer+and...;Software+Engineer"></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--horizontal divider(gradiant)-->
+
+<br>
+
+## 🚀 About me
+
+- 2+ years of experience in web development.
+- Passionate about technology, continuous learning, and creating quality digital products.
+- Available to work and collaborate on innovative projects.
 
 ---
 
-## 🚀 Sobre mí
+## 🛠️ Skills & Technologies:
 
-- +2 años de experiencia en desarrollo web.
-- Apasionado por la tecnología, el aprendizaje continuo y la creación de productos digitales de calidad.
-- Disponible para trabajar y colaborar en proyectos innovadores.
+Here's a sample of the tools and languages ​​I use to bring web projects to life:
+  
+ FRONTEND: 
+  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,js,ts,react,vue,astro"/>
+</p>
+
+### BACKEND:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,next,nest,mysql,postgres"/>
+</p>
+
+### TOOLS:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github,git,docker,vite,npm,pnpm,bun,yarn,postman,redux,stackoverflow" />
+</p>
+
+```mermaid
+flowchart 
+f1[HTML]
+f2[Css]
+f3[javaScpit]
+f4[Markdown]
+fw1((ReactJs))
+fw2((NextJs))
+fw3((Bootstrap))
+fw4((tailwind))
+fw5((Scss))
+fw6((mermaid))
+b1{NodeJs}
+b2{RestAPIs}
+b3{PHP}
+ subgraph  BackEnd
+b1
+b2
+b3
+ end  
+ subgraph Framworks 
+fw1
+fw2
+fw3
+fw4
+fw5
+fw6
+ end
+  subgraph  FrontEnd 
+ f1
+ f2
+ f3
+ f4
+ end  
+ f1 --o f2
+ f1 --o f3
+ f1 --o f4
+ f2 --> fw3
+ f2 --> fw4
+ f2 --> fw5
+ f3 --o fw1
+ f3 --o fw2
+ fw2 --o b1
+ f4 --> fw6
+ b1 --o b2
+ ```
 
 ---
 
-## 🛠️ Tecnologías
-
-Aquí tienes una muestra de las herramientas y lenguajes que utilizo para dar vida a proyectos web:
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudio%20code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
----
-
-## 🌐 Idiomas
+## 🌐 Lenguages
 
 - Español (nativo)
 - Inglés (B1+)
 
 ---
 
-## 📂 Secciones del sitio
-
-- **Experiencia:** Trayectoria profesional y proyectos destacados.
-- **Proyectos:** Ejemplos de trabajos realizados.
-- **Tecnologías:** Herramientas y lenguajes que domino.
-- **Sobre mí:** Más información personal y profesional.
-- **Contacto:** ¡Hablemos! Puedes escribirme directamente.
-
----
-
 ## 📫 Contacto
 
-- **Email:** [jesusefp99@gmail.com](mailto:jesusefp99@gmail.com)
-- **LinkedIn:** [linkedin.com/in/](https://linkedin.com/
+<a target="_blank" href="mailto:jesusefp99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
+---
+| ![Jesús's github stats](https://github-readme-stats.vercel.app/api?username=g35u599&show_icons=true&theme=tokyonight) | ![jesus GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g35u599&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g35u599&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=g35u599&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=g35u599&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
 
 ---
 
-¡Gracias por visitar mi portafolio!  
-Si quieres colaborar o tienes alguna propuesta, no dudes en contactarme.
+<h2 align="center"><b>Thank you for visiting my portfolio!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+
+### If you'd like to collaborate or have a proposal, please don't hesitate to contact me.
 
 ---
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
 
