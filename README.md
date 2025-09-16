@@ -6,7 +6,10 @@
   <a href="#"><img src="./imgs/banner.jpg" alt="Banner Profile" width="100%"></a>
 </div>
 <!--horizontal divider(gradiant)-->
-<h1 align="center"><b>Hi , I'm Jesús Enrique Fernández Prieto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <h1 align="center" style="display: flex; align-items: center; justify-content: center;"><b>Hi , I'm Jesús Enrique Fernández Prieto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><!-- </h1>
+<div align="center"><img src="./imgs/jesus.png" alt="Tu Foto" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px;"></div>
+</div> -->
 <!-- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif"> -->
 <!--  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
