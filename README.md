@@ -32,7 +32,7 @@ Here's a sample of the tools and languages ​​I use to bring web projects to 
   
 <h3 align="center">FRONTEND:</h3>  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,js,ts,react,vue,astro"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,js,ts,react,vue,astro,reactnative"/>
 </p>
 
 ### <h3 align="center">BACKEND:</h3>  
@@ -42,7 +42,7 @@ Here's a sample of the tools and languages ​​I use to bring web projects to 
 
 ### <h3 align="center">TOOLS:</h3>  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github,git,docker,vite,npm,pnpm,bun,yarn,postman,redux,stackoverflow,aws,railway" />
+  <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github,git,docker,vite,npm,pnpm,bun,yarn,postman,redux,stackoverflow,aws" />
 </p>
 
 ```mermaid
