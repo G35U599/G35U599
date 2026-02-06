@@ -20,7 +20,7 @@
 
 ## 🚀 About me
 
-- 2+ years of experience in web development.
+- 3+ years of experience in web development.
 - Passionate about technology, continuous learning, and creating quality digital products.
 - Available to work and collaborate on innovative projects.
 
