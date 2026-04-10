@@ -37,7 +37,7 @@ Here's a sample of the tools and languages ​​I use to bring web projects to 
 
 ### <h3 align="center">BACKEND:</h3>  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,next,nest,mysql,postgres,supabase,firebase"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,next,nest,mysql,postgres,supabase,firebase,redis"/>
 </p>
 
 ### <h3 align="center">TOOLS:</h3>  
