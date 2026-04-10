@@ -42,7 +42,7 @@ Here's a sample of the tools and languages ​​I use to bring web projects to 
 
 ### <h3 align="center">TOOLS:</h3>  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github,git,docker,vite,npm,pnpm,bun,yarn,postman,redux,stackoverflow,aws,stripe,discord,jest,cypress,vitest,engram,sdd,skills,mcp,llm" />
+  <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github,git,docker,vite,npm,pnpm,bun,yarn,postman,redux,zustand,stackoverflow,aws,stripe,discord,jest,cypress,vitest,engram,sdd,skills,mcp,llm" />
 </p>
 
 ```mermaid
