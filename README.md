@@ -112,7 +112,7 @@ fw6
 ---
 | ![Jesús's github stats](https://github-readme-stats.vercel.app/api?username=g35u599&show_icons=true&theme=tokyonight) | ![jesus GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g35u599&theme=tokyonight) |
 | --- | --- |
-[![trophy](https://github-profile-trophy.vercel.app/?username=g35u599)](https://github.com/g35u599/github-profile-trophy) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=g35u599&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+[![trophy](https://github-profile-g35u599.vercel.app/?username=g35u599)](https://github.com/g35u599/github-profile-trophy) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=g35u599&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
