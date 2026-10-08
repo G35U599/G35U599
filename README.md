@@ -121,11 +121,11 @@ flowchart LR
   <img src="https://streak-stats.demolab.com?user=g35u599&theme=tokyonight" alt="GitHub streak">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img width="100%" src="https://TU-PROYECTO.vercel.app/?username=g35u599&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="Trophies">
   </a>
-</p>
+</p> -->
 
 ---
 
