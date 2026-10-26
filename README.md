@@ -44,7 +44,7 @@ Here's a sample of the tools and languages I use to bring web projects to life:
 
 <h3 align="center">TOOLS</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github,git,docker,kubernetes,jenkin,vite,npm,pnpm,bun,yarn,postman,redux,stackoverflow,aws,discord,jest,cypress,vitest&perline=10" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github,git,docker,kubernetes,jenkins,vite,npm,pnpm,bun,yarn,postman,redux,stackoverflow,aws,discord,jest,cypress,vitest&perline=10" alt="Tools">
 </p>
 
 <p align="center">
