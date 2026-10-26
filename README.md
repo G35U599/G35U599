@@ -34,7 +34,7 @@ Here's a sample of the tools and languages I use to bring web projects to life:
 
 <h3 align="center">FRONTEND</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,js,ts,react,vue,astro,nextjs" alt="Frontend skills">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,js,ts,react,vue,astro,nextjs,angular" alt="Frontend skills">
 </p>
 
 <h3 align="center">BACKEND</h3>
