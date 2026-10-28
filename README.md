@@ -141,4 +141,4 @@ flowchart LR
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif" width="100%" alt="">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="">
 
-<p align="center">Jesús Enrique Fernández Prieto © 2025</p>
+<p align="center">Jesús Enrique Fernández Prieto © 2023</p>
