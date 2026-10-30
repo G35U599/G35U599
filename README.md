@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FFFF&size=30&center=true&vCenter=true&width=600&height=100&lines=FullStack+Developer+and...;Software+Engineer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FFFF&size=30&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineer" alt="Typing SVG">
   </a>
 </p>
 
@@ -23,14 +23,14 @@
 ## 🚀 About me
 
 - 4+ years of experience in web development.
-- Passionate about technology, continuous learning, and creating quality digital products.
-- Available to work and collaborate on innovative projects.
+- Passionate about technology, continuous learning, and building high-quality digital products.
+- Open to new opportunities and to collaborating on innovative projects.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-Here's a sample of the tools and languages I use to bring web projects to life:
+Here's a sample of the languages and tools I use to bring web projects to life:
 
 <h3 align="center">FRONTEND</h3>
 <p align="center">
@@ -44,9 +44,18 @@ Here's a sample of the tools and languages I use to bring web projects to life:
 
 <h3 align="center">TOOLS</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github,git,docker,kubernetes,jenkins,vite,npm,pnpm,bun,yarn,postman,redux,stackoverflow,aws,discord,jest,cypress,vites,claude,opencode,codex,mcp,Terraform,Ansible,Grafana&perline=10" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github,git,docker,kubernetes,jenkins,terraform,ansible,grafana,aws,vite,npm,pnpm,bun,yarn,postman,redux,jest,vitest,cypress,stackoverflow,discord&perline=12" alt="Tools">
 </p>
 
+<h3 align="center">AI TOOLS</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/OpenCode-222222?style=for-the-badge" alt="OpenCode">
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+</p>
+
+<h3 align="center">PLATFORMS & INTEGRATIONS</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio">
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
@@ -56,24 +65,24 @@ Here's a sample of the tools and languages I use to bring web projects to life:
 
 ```mermaid
 flowchart LR
-  subgraph FrontEnd
+  subgraph Frontend
     f1[HTML]
     f2[CSS]
     f3[JavaScript]
     f4[Markdown]
   end
 
-  subgraph Frameworks
-    fw1((ReactJS))
-    fw2((NextJS))
-    fw3((ShadCN))
+  subgraph Libraries["Frameworks & Libraries"]
+    fw1((React))
+    fw2(("Next.js"))
+    fw3(("shadcn/ui"))
     fw4((Tailwind))
     fw5((SCSS))
     fw6((Mermaid))
   end
 
-  subgraph BackEnd
-    b1{NodeJS}
+  subgraph Backend
+    b1{"Node.js"}
     b2{REST APIs}
     b3{PHP}
   end
@@ -89,6 +98,7 @@ flowchart LR
   f4 --> fw6
   fw2 --o b1
   b1 --o b2
+  b3 --o b2
 ```
 
 ---
@@ -130,15 +140,15 @@ flowchart LR
 ---
 
 <h2 align="center">
-  Thank you for visiting my GitHub page!
+  Thanks for visiting my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
 </h2>
 
-<p align="center">If you'd like to collaborate or have a proposal, please don't hesitate to contact me.</p>
+<p align="center">If you'd like to collaborate or have a proposal, feel free to reach out.</p>
 
 ---
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif" width="100%" alt="">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="">
 
-<p align="center">Jesús Enrique Fernández Prieto © 2023</p>
+<p align="center">Jesús Enrique Fernández Prieto © 2026</p>
